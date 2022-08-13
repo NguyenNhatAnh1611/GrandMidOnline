@@ -1,7 +1,6 @@
 # Grand Mid Online 2022
 
 Project Started on 9th August, 2022.
-Release Date : 25th August, 2022. [Not 100% Correct]
 
 **NOTE : This script only works for Synapse X, other exploits are not fully supported or even unfunctional. For the best uses of the script, makes sure you use Synapse X.**
 
