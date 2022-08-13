@@ -1,4 +1,4 @@
-# GrandMidOnline
+# Grand Mid Online 2022
 
 Project Started on 9th August, 2022.
 
@@ -15,4 +15,17 @@ Hello, Grand Mid Online script is a made for a ROBLOX game, Grand Piece Online. 
 - No Stamina Dash [Infinite Dashing?]
 - Webhook System [Notify you through Discord of what's going on in the game]
 
-Script is still in development, further updates will be show here and in Changelogs.
+Script still in development, further updates will be show here.
+
+Lastest Changelogs [13/8/2022] :
+- Version 0.14
+  + Added No Drown
+  + Added No Fall Damage
+  + Added No Stamina Dash
+  + Improved Existed Functions
+- Upcoming :
+  + Water Walk
+  + ESPs
+  + Auto Attack
+ 
+Next Update will come around 15/8, stay tuned!
